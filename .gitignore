@@ -1,0 +1,5 @@
+.expo
+galeria/client/.expo
+galeria/client/node_modules
+galeria/server/node_modules
+galeria/server/photos/**
